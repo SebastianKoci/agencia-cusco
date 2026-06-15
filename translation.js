@@ -435,3 +435,4 @@ const TRANSLATIONS = {
         wa_form_msg: "💬 *Messaggio:* "
     }
 };
+
